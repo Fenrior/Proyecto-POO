@@ -1,0 +1,43 @@
+Depresion,d,18;Ansiedad,a,22
+aTorpe o entumecido
+aAcalorado
+aCon temblor en las piernas
+aIncapaz de relajarse
+aCon temor a que ocurra lo peor
+aMareado, o que se le va la cabeza
+aCon latidos del corazon fuertes y acelerados
+aInestable
+aAtemorizado o asustado
+aNervioso
+aCon sensacion de bloqueo
+aCon temblores en las manos
+aInquieto, inseguro
+aCon miedo a perder el control
+aCon sensacion de ahogo
+aCon temor a morir
+aCon miedo
+aCon problemas digestivos
+aCon desvanecimientos
+aCon rubor facial
+aCon sudores, frios o calientes
+dTristeza
+dPesimismo
+dFracaso
+dPerdida de placer
+dSentimientos de culpa
+dSentimientos de castigo
+dDisconformidad con uno mismo
+dAutocritica
+dPensamientos o deseos suicidas
+dLlanto
+dAgitacion
+dPerdida de interes
+dIndecision
+dDesvalorizacion
+dPerdida de energia
+dCambios de habitos de somnolencia
+dIrritabilidad
+dCambios en el apetito
+dDificultad de concentracion
+dCansancio o fatiga
+dPerdida de interes en el sexo
