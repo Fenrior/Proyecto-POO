@@ -23,7 +23,7 @@ class VerInfo(tk.Tk):
 
         self.archivo = tk.StringVar()
         ingresar_archivo = tk.Entry(self, textvariable=self.archivo)
-        self.lb = tk.Label(self, bg="#74bce3", foreground="#aded3e", text="")
+        self.lb = tk.Label(self, bg="#74bce3", foreground="#f7b80a", text="")
 
         self.titulo.grid(row=0, column=0, columnspan=4)
         descarga.grid(row=1, column=0, sticky=tk.W+tk.E, padx=5)
