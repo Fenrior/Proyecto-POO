@@ -104,5 +104,6 @@ class Questions(tk.Canvas):
 
 
 if __name__ == "__main__":
-    yy = MyApp()
-    yy.mainloop()
+    pass
+# yy = MyApp()
+# yy.mainloop()

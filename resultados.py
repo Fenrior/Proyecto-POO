@@ -63,7 +63,8 @@ class Second(tk.Toplevel):
 # No ejecutar como archivo principal, en si no proveer nombre enfermedad, informacion enfermedad y informacion restante
 
 if __name__ == "__main__":
-    sc = Second()
-    sc.mainloop()
+    pass
+# sc = Second()
+# sc.mainloop()
 
 

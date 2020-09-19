@@ -77,5 +77,6 @@ Instrucciones:
 
 
 if __name__ == "__main__":
-    app = App()
-    app.mainloop()
+    pass    
+# app = App()
+# app.mainloop()
